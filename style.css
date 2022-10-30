@@ -1,0 +1,97 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+body*{
+  font-family: 'Roboto';
+  
+}
+
+body{
+  height: 100vh;
+  background: linear-gradient(150deg, #0F2B05 , #000000 );
+  text-align: center;
+}
+header{
+  padding: 75px 0;
+  cursor:pointer;
+  pointer-events: none;
+  user-select: none;
+}
+main{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+.card{
+  display: inline-block;
+  margin:0;
+  width: 364px;
+  height: 508px;
+  background-image: url(./assets/bg-explorer.svg);
+  cursor: pointer;
+  transition: 0.4s ease-in-out;
+  opacity: 0;
+  transform: translateY(-100px);
+  animation: appear 1s forwards ease-in-out;
+}
+.card > img{
+  position: absolute;
+  margin-left: -125px;
+  margin-top: 50px;
+  pointer-events: none;
+  user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+ 
+}
+.info{
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-end;
+  color: white;
+  font-family: 'Roboto';
+  margin-top: 350px;
+}
+h1{
+  margin-right: 100px;
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 5px;
+  margin-top: 10px;
+  pointer-events: none;
+  user-select: none;
+}
+p{
+ margin-right: 97px;
+ font-size: 14px;
+ pointer-events: none;
+ user-select: none;
+}
+.iconLinkedin{
+  position: absolute;
+  display: flex;
+  margin-bottom: -15px;
+  
+  user-select: none;
+  
+}
+.imgLinkedin{
+  background-image: url(./assets/iconLinkedin.svg);
+  filter: invert();
+  transition: 0.3s ease-in-out;
+}
+.imgLinkedin:hover{
+  filter: none;
+}
+
+@keyframes appear{
+  to{
+    opacity: 1;
+    transform: translateY(0px);
+  }
+}
