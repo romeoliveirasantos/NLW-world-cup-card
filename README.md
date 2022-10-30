@@ -13,6 +13,7 @@ JavaScript <img align="center" alt="JS" height="30" width="40" src="https://raw.
 <p>Criamos um card da copa personalizado, utilizando as tecnologias HTML5 CSS3 e Javascript para a interatividade, ao clicar uma vez no card, o mesmo altera suas propriedades para as diferentes trilhas oferecidas pela Rocketseat, Trilha Explorer ou Trilha Ignite. </p>
 
 <br>
-<a href="https://romeoliveirasantos.github.io/NLW-world-cup-card/" target="_blank"><h2>Confira o projeto clicando neste link</h2></a>
+<h2>Confira o projeto clicando no link abaixo</h2>
+<a href="https://romeoliveirasantos.github.io/NLW-world-cup-card/" target="_blank"><p>Confira</p></a>
 <br><br>
 <img src="https://iili.io/b70poP.md.png" border="0">
