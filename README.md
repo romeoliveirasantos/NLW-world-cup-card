@@ -1,6 +1,6 @@
 
 <h1>Projeto NLW - Copa Card</h1>
-<p>Oferecido pelo <strong><a href="https://www.linkedin.com/in/maykbrito/" target="_blank">Mayke Brito</a></strong> - Educador da Rocketseat</p>
+<p>Oferecido pelo <strong><a href="https://www.linkedin.com/in/maykbrito/" target="_blank">Mayk Brito</a></strong> - Educador da Rocketseat</p>
 
 <h2>Tecnologias utilizadas</h2>
 <div style="display:flex">
