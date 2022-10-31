@@ -14,6 +14,9 @@ JavaScript <img align="center" alt="JS" height="30" width="40" src="https://raw.
 
 <br>
 <h2>Confira o projeto clicando no link abaixo</h2>
-<a href="https://romeoliveirasantos.github.io/NLW-world-cup-card/" target="_blank"><p>Confira</p></a>
 <br><br>
+<a align="center" href="https://romeoliveirasantos.github.io/NLW-world-cup-card/" target="_blank"><p>Confira</p></a>
+<br><br>
+<div align="center">
 <img src="https://iili.io/b70poP.md.png" border="0">
+</div>
